@@ -112,6 +112,7 @@ Or check out our [Next.js-based talk and demo at Next.js Conf 2021][nextconf-tal
 
 [![Next.js-based talk and demo at Next.js Conf 2021](https://user-images.githubusercontent.com/7129/139349085-0e72defe-89c2-47c4-8915-b92143fbb33c.png)][nextconf-talk]
 
+[website]: https://www.plasmic.app
 [nextconf-talk]: https://www.youtube.com/watch?v=fhEwNlzzobE
 
 # Get help and join our community
@@ -137,6 +138,8 @@ Plasmic is used by companies ranging from Fortune 500s to boutique brands to sol
 It's used for websites ranging from headless commerce storefronts to marketing websites to logged-in app content.
 
 Check out the [Case Studies and Community Showcase][customers].
+
+[customers]: https://www.plasmic.app/casestudies
 
 <p align="center">
   <a href="https://www.plasmic.app/casestudies">
